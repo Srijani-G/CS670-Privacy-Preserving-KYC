@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+*.egg-info/
+.venv/
+venv/
+large_tests/results/
+
+# OS
+.DS_Store
